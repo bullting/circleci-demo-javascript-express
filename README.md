@@ -155,7 +155,7 @@ docker-compose -f docker-compose-development.yml build
 docker-compose -f docker-compose-development.yml up
 ```
 
-To run docker for production,
+To run docker for production,++
 ```
 docker-compose build
 docker-compose up
